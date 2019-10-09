@@ -9,3 +9,5 @@ PathSim.R is for calculating the relatedness based on symmetric meta-path.
 Regression.R is for obtaining the combination coefficients based on ridge regression.
 
 predictions.csv provides all rankings of drug pairs prioritized by ISDCSMP.
+
+Dataset.xlsx is the benchmark dataset.
